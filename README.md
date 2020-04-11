@@ -13,7 +13,7 @@ AVI video file is accordingly created with the time-space distribution after exe
  Demo
 ------
 With color-map changing based on confirmed cases on that particular day
-![Corona Time Map Demo](demo/corona_time_map.gif)
+![Corona Time Map Demo](Demo/corona_time_map.gif)
 
 With color-map constant over entire video based on current total confirmed cases
-![Corona Time Map Uniform Demo](demo/corona_time_map_uniform.gif)
+![Corona Time Map Uniform Demo](Demo/corona_time_map_uniform.gif)
