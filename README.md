@@ -9,7 +9,7 @@ To get the latest data, use the following curl command in the project directory 
 
 curl --request GET 'https://api.rootnet.in/covid19-in/s/history.json' > data.json
 
-AVI video file is accordingly created with the time-space distribution after executing time-map.ipynb
+AVI video files are accordingly created after executing time-map.ipynb
 
  Demo
 ------
