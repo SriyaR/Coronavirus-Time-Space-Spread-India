@@ -5,7 +5,7 @@ Dataset obtained from COVID-19 India API [https://github.com/covid19india/api], 
 
 Attached Data.json contains Coronavirus Data for India between March 10 2020 to April 11 2020
 
-To get the latest data, use the following curl command in the project directory:
+To get the latest data, use the following curl command in the project directory [INDIA/]:
 
 curl --request GET 'https://api.rootnet.in/covid19-in/s/history.json' > data.json
 
